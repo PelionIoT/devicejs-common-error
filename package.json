@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WigWagCo/devicejs-common-error.git"
+    "url": "git+https://github.com/armPelionEdge/devicejs-common-error.git"
   },
   "author": "Ed Hemphill <npm@wigwag.com> (http://www.wigwag.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WigWagCo/devicejs-common-error/issues"
+    "url": "https://github.com/armPelionEdge/devicejs-common-error/issues"
   },
   "scripts" :
     { "prepublish" : "tools/build.js" },
-  "homepage": "https://github.com/WigWagCo/devicejs-common-error#readme"
+  "homepage": "https://github.com/armPelionEdge/devicejs-common-error#readme"
 }
